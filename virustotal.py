@@ -8,7 +8,7 @@ from datetime import datetime
 import requests
 import hashlib
 
-API_KEY = "599ff03dd3bb3201826c67cad6000d87f41981c2beb439132a8950de1cdbfcbc"
+API_KEY = "APİKEY GİRİNİZ VİRÜSTOTAL"
 
 class IndirmeOlayIsleyici(FileSystemEventHandler):
     def __init__(self, arayuz):
